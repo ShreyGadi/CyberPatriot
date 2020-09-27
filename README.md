@@ -1,2 +1,2 @@
-# CyberPatriot
-CyberPatriot 12th Grade Shreyas Gadiraju
+# 12th Grade
+CyberPatriot
